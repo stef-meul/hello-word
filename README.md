@@ -14,4 +14,11 @@ here's a video of me dancing
   </iframe>
 </div>
 
-here's a project where i research <a href= "https://www.transdisciplinary.art/department-of-bad-television/" target="_blank">department of bad television </a>
+<!-- Used to embed Youtube videos -->
+
+<div class="embed-container">
+  <iframe width="700" height="480" src="https://www.youtube.com/embed/f-aa7VlR4xM&" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+
+here's a project where i'm researching <a href= "https://www.transdisciplinary.art/department-of-bad-television/" target="_blank">department of bad television </a>
