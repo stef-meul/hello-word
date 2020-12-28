@@ -6,7 +6,7 @@ here's a video of me dancing
 
 <div class="embed-container">
   <iframe
-      src="https://www.youtube.com/embed/{{ include.id }}"
+      src="https://www.youtube.com/embed/{{ f-aa7VlR4xM }}"
       width="700"
       height="480"
       frameborder="0"
