@@ -11,6 +11,30 @@ https://bittube.video/videos/watch/aa01a424-3d61-437e-9f5c-381c0f997e55?warningT
 
 [![Watch the video](https://i.imgur.com/YPmZFtu.mp4)](https://youtu.be/f-aa7VlR4xM)
 
+<div class="embed-container">
+  <iframe
+      src="https://player.vimeo.com/video/{{ include.id }}"
+      width="500"
+      height="281"
+      frameborder="0"
+      webkitallowfullscreen
+      mozallowfullscreen
+      allowfullscreen>
+  </iframe>
+</div>
+
+i'll try to embed the video here:
+
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/{{ https://youtu.be/f-aa7VlR4xM }}"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
+
 i'll try to embed the video here:
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://bittube.video/videos/embed/aa01a424-3d61-437e-9f5c-381c0f997e55?warningTitle=0&peertubeLink=0" frameborder="0" allowfullscreen></iframe>
