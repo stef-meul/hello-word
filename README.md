@@ -13,3 +13,5 @@ here's a video of me dancing
       allowfullscreen="">
   </iframe>
 </div>
+
+here's a project where i do research <a href= "https://www.transdisciplinary.art/department-of-bad-television/" target="_blank">department of bad television </a>
